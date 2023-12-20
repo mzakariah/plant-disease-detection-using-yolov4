@@ -8,10 +8,13 @@ Our work contributes to the growing body of research on the use of deep learning
 our work highlights the importance of utilizing advanced computer vision techniques for the accurate and timely detection of plant diseases, which is crucial for ensuring food security and sustainable agriculture.
 # Dataset used in this study
 
+
 plant village dataset google drive link:
 https://drive.google.com/file/d/1-62YVfF3tXQQvUrUh2NeEgqHR_oZJFvr/view?usp=share_link
+
 A Database of Leaf Images: from Mendeley Data : Mangoes leaves
 https://drive.google.com/file/d/1-D9EyCN_dEMqUIoZpCP-jDJvBfdWB5AO/view?usp=share_link
+
 Bean disease dataset:
 https://drive.google.com/file/d/1-F6cJp45yoHA91RggJgi5p9rCPL9ojWg/view?usp=share_link
 
